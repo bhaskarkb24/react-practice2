@@ -11,6 +11,7 @@ export default function ReusableExample() {
       <Button onClick={onClickHandler} name="Button 1" />
       <Button onClick={onClickHandler} name="Button 2" />
       <Button onClick={onClickHandler} name="Button 3" />
+      <Button onClick={onClickHandler} name="Button 4" />
     </>
   );
 }
