@@ -4,7 +4,6 @@ export default function ReusableExample() {
   const onClickHandler = (buttonName) => {
     console.log('Button Clicked', buttonName);
   };
-
   return (
     <>
       <Button onClick={onClickHandler} name="Click Here" />
