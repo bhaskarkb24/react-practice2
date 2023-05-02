@@ -40,6 +40,7 @@ export default function UseEffect() {
         type="email"
         placeholder="Enter EmailID"
       />
+      <input type="text" />
     </>
   );
 }
