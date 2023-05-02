@@ -6,6 +6,7 @@ import ConditionalComs from './Components/ConditionalComs';
 import OnChangeExample from './Components/OnChangeExample';
 import OnclickExample from './Components/OnclickExample';
 import ReusableExample from './Reusable/ReusableExample';
+import Reacthooks from './ReactHooks/ReactHook';
 function App() {
   return (
     <>
@@ -20,6 +21,8 @@ function App() {
       <OnclickExample />
       <br />
       <ReusableExample />
+      <br />
+      <Reacthooks />
     </>
   );
 }
